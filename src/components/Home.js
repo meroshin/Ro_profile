@@ -6,6 +6,7 @@ import "../components/Navbar.css";
 import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 import ProgressBar from 'react-bootstrap/ProgressBar';
+import Bannerimg from './banner-img.jpg';
 
 function Home() {
 
@@ -20,7 +21,7 @@ function Home() {
               <h4>Front End Developer</h4>
             </Col>
             <Col>
-              <img src="banner-img.jpg" width="80%" alt="banner"></img>
+              <img src={Bannerimg} width="80%" alt="banner"></img>
             </Col>
           </Row>
         </div>
