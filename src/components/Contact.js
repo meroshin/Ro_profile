@@ -8,7 +8,7 @@ function Contact() {
     <div>
          <div className="contact-page">
          <div className="contact-image">
-        <img src="banner-img.jpg" alt="Contact" width="60%" />
+        <img  src={require('../images/banner-img.jpg')} alt="Contact" width="60%" />
       </div>
       <div className="contact-details">
         <div className="contact-info">

@@ -12,7 +12,7 @@ function MyWorks() {
       <Row style={{padding:"20px 0"}}>
         <Col>
         <Card>
-            <Card.Img variant="top" src="tawfeeq-img.png" height="300px" />
+            <Card.Img variant="top"  src={require('../images/tawfeeq-img.png')} height="300px" />
             <Card.Body>
             <Card.Title style={{fontWeight:"600", paddingBottom:"5px"}}>Wordpress - Website</Card.Title>
               <Card.Text style={{fontSize:".9rem"}}>
@@ -24,7 +24,7 @@ function MyWorks() {
         </Col>
 
         <Col> <Card>
-            <Card.Img variant="top" src="alta-img.png" height="300px" />
+            <Card.Img variant="top"  src={require('../images/alta-img.png')} height="300px" />
             <Card.Body>
               <Card.Title style={{fontWeight:"600", paddingBottom:"5px"}}>HTML/CSS - Website</Card.Title>
               <Card.Text style={{fontSize:".9rem"}}>
@@ -41,7 +41,7 @@ function MyWorks() {
 
       <Row style={{padding:"8px 0"}}>
       <Col> <Card>
-            <Card.Img variant="top" src="hayaat-img.png" height="300px" />
+            <Card.Img variant="top"  src={require('../images/hayaat-img.png')} height="300px" />
             <Card.Body>
               <Card.Title style={{fontWeight:"600", paddingBottom:"5px"}}>HTML/CSS - Website</Card.Title>
               <Card.Text style={{fontSize:".9rem"}}>
@@ -53,7 +53,7 @@ function MyWorks() {
           </Col>
 
           <Col> <Card>
-            <Card.Img variant="top" src="wedzee-img.png" height="300px" />
+            <Card.Img variant="top"  src={require('../images/wedzee-img.png')} height="300px" />
             <Card.Body>
               <Card.Title style={{fontWeight:"600", paddingBottom:"5px"}}>HTML/CSS - Website</Card.Title>
               <Card.Text style={{fontSize:".9rem"}}>
@@ -69,7 +69,7 @@ function MyWorks() {
 
       <Row style={{padding:"20px 0"}}>
       <Col xs={2} md={6}> <Card>
-            <Card.Img variant="top" src="portfolio-img.png" height="300px" />
+            <Card.Img variant="top"  src={require('../images/portfolio-img.png')} height="300px" />
             <Card.Body>
               <Card.Title style={{fontWeight:"600", paddingBottom:"5px"}}>React JS - Website</Card.Title>
               {/* <Card.Text style={{fontSize:".9rem"}}>
