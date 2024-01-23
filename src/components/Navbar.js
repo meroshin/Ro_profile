@@ -39,9 +39,9 @@ function NavBar() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" className='Toggle-btn' />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ms-auto Nav-item">
-          <Link to="/" className='navbar-links'>Home</Link>
+          <Link to="/Home" className='navbar-links'>Home</Link>
           <Link to="/MyWorks" className='navbar-links'>My Works</Link>
-          <Link to="/contact" className='navbar-links'>Contact</Link>
+          <Link to="/Contact" className='navbar-links'>Contact</Link>
      
           </Nav>
       
