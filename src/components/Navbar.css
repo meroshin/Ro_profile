@@ -176,7 +176,7 @@ body
     }
     .row{
       margin: auto;
-      flex-direction: column-reverse;
+      flex-direction: column;
     }
     .head-text h1
 {
