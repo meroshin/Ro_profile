@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ro_profile/static/css/main.5638c386.css",
+    "main.css": "/Ro_profile/static/css/main.e6fcb0f4.css",
     "main.js": "/Ro_profile/static/js/main.c449c23d.js",
     "static/media/wedzee-img.png": "/Ro_profile/static/media/wedzee-img.c8a421a1a38e25c7bd19.png",
     "static/media/tawfeeq-img.png": "/Ro_profile/static/media/tawfeeq-img.a7fbc0eb64b934ef6a4a.png",
@@ -8,11 +8,11 @@
     "static/media/alta-img.png": "/Ro_profile/static/media/alta-img.85e6fa71e9169a30caab.png",
     "static/media/banner-img.jpg": "/Ro_profile/static/media/banner-img.03d09acbf723d1b03867.jpg",
     "index.html": "/Ro_profile/index.html",
-    "main.5638c386.css.map": "/Ro_profile/static/css/main.5638c386.css.map",
+    "main.e6fcb0f4.css.map": "/Ro_profile/static/css/main.e6fcb0f4.css.map",
     "main.c449c23d.js.map": "/Ro_profile/static/js/main.c449c23d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5638c386.css",
+    "static/css/main.e6fcb0f4.css",
     "static/js/main.c449c23d.js"
   ]
 }
